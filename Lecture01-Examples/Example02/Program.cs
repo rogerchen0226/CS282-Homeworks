@@ -10,6 +10,7 @@ namespace Example02
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("你的姓名:{0}", Console.ReadLine());
         }
     }
 }
