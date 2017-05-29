@@ -1,0 +1,5 @@
+C:\CS282-Examples\Letcure02-Examples\Example02\bin\Debug\Example02.exe.config
+C:\CS282-Examples\Letcure02-Examples\Example02\bin\Debug\Example02.exe
+C:\CS282-Examples\Letcure02-Examples\Example02\bin\Debug\Example02.pdb
+C:\CS282-Examples\Letcure02-Examples\Example02\obj\Debug\Example02.exe
+C:\CS282-Examples\Letcure02-Examples\Example02\obj\Debug\Example02.pdb

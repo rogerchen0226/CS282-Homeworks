@@ -1,0 +1,6 @@
+C:\CS282-Examples\Letcure02-Examples\Example01\bin\Debug\Example01.exe.config
+C:\CS282-Examples\Letcure02-Examples\Example01\bin\Debug\Example01.exe
+C:\CS282-Examples\Letcure02-Examples\Example01\bin\Debug\Example01.pdb
+C:\CS282-Examples\Letcure02-Examples\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+C:\CS282-Examples\Letcure02-Examples\Example01\obj\Debug\Example01.exe
+C:\CS282-Examples\Letcure02-Examples\Example01\obj\Debug\Example01.pdb
