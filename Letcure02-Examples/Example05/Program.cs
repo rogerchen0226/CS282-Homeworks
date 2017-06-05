@@ -25,6 +25,11 @@ namespace Example05
                 person.DrawSquare(width);
             else
                 Console.WriteLine("輸入錯誤，請重新執行!");
+
+            person.Pos.X = 100;
+            person.Pos.Y = 100;
+            person.Orientation = 0.0f;
+            person.DrawSquare(100, 50);
         }
     }
 }

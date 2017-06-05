@@ -11,6 +11,7 @@ namespace Example06
         private static void Main(string[] args)
         {
             Product[] products = new Product[4];
+
             products[0] = new Product()
             {
                 Name = "iPhone 7",
@@ -31,6 +32,7 @@ namespace Example06
                 Name = "iPhone 6",
                 Price = 25900
             };
+
             Random random = new Random();
             List<Product> shoppingCart = new List<Product>();
 

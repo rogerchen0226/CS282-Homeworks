@@ -40,6 +40,22 @@ namespace Example05
             }
         }
 
+        public void DrawSquare(double length, double width)
+        {
+            this.MoveForward(length);
+            this.TurnRight(90);
+            this.ShowPosition();
+            this.MoveForward(width);
+            this.TurnRight(90);
+            this.ShowPosition();
+            this.MoveForward(length);
+            this.TurnRight(90);
+            this.ShowPosition();
+            this.MoveForward(width);
+            this.TurnRight(90);
+            this.ShowPosition();
+        }
+
         public void DrawSquare()
         {
             DrawSquare(100);
