@@ -28,6 +28,11 @@ namespace Example03
             };
         }
 
+        /// <summary>
+        ///
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void MainForm_Load(object sender, EventArgs e)
         {
             temperatureLabel.Text = String.Format("溫度 : {0}", data.Temperature.ToString());
